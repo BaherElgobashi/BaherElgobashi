@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Baher Mohamed Zakaria Elgobashi <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey there, Baher here! <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -14,13 +14,12 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Computer Science graduate.
-- 💻 Full Stack Web Developer (React.js + ASP.NET Core).
-- 🔭 I’m currently working on building real-world web applications.
-- 🌱 I’m focusing on improving my fundamentals (C#, OOP, APIs).
-- 🚀 Interested in scalable systems and clean architecture.
-- 🤝 Open to internships and junior opportunities.
-- 🧠 Currently improving problem-solving and system design.
+- 🎓 Computer Science Graduate  
+- 💻 Full Stack Web Developer (React.js + ASP.NET Core)  
+- 🔭 Currently building real-world web applications and APIs  
+- ⚙️ Strong focus on backend development and clean architecture  
+- 🌱 Improving problem-solving, OOP, and system design skills  
+- 🚀 Actively looking for internships / junior opportunities  
 
 <br>
 
@@ -32,7 +31,7 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="http://www.linkedin.com/in/baher-elgobashi-1975a5298" target="_blank">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -40,48 +39,69 @@
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
+### 🧠 Programming Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,js,java" />
+</div>
+
+### 🌐 Web
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</div>
+
+### ⚙️ Frameworks & Libraries
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,express" />
+</div>
+
+### 🛠 Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,bootstrap,tailwind,cs,dotnet,api,mvc,entityframeworkcore,linq,git,github,python,cpp&perline=11" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" /><br><br>
+
+<p>
+- Visual Studio Code  
+- Visual Studio  
+- SQL Server Management Studio  
+- Cursor  
+- Antigravity  
+</p>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaherElgobashi&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaherElgobashi&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaherElgobashi&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaherElgobashi&theme=radical">
 
-</div><br>
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=BaherElgobashi&theme=radical">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=BaherElgobashi&theme=radical">
 
-<hr>
+</div>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <b>Always learning, always building.</b>
-</p>
+<br>
 
 ---
 
-### 🎯 Goals
+### 🎯 Current Focus
 
-- Master ASP.NET Core & backend architecture.  
-- Build production-level full stack apps.  
-- Improve problem solving & system design.  
-- Land a strong software engineering role.
+- Building scalable backend systems with ASP.NET Core  
+- Improving API design & performance  
+- Practicing Data Structures & Algorithms  
+- Writing cleaner and maintainable code  
 
 ---
+
+<p align="center">
+  <b>Always learning, always building 🚀</b>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
