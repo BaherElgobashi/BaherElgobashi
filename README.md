@@ -53,13 +53,13 @@
 
 ### ⚙️ Frameworks & Libraries
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,next,dotnet,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,next,dotnet,asp.net api , asp.net mvc,nodejs,express" />
 </div>
 
 ### 🛠 Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,cursor,antigravity" /><br><br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma" /><br><br>
 
 
 
