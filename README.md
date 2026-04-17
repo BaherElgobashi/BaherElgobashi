@@ -43,7 +43,7 @@
 
 ### 🧠 Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,js,java" />
+<img src="https://skillicons.dev/icons?i=cs,js,cpp,python" />
 </div>
 
 ### 🌐 Web
@@ -53,21 +53,15 @@
 
 ### ⚙️ Frameworks & Libraries
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,next,dotnet,nodejs,express" />
 </div>
 
 ### 🛠 Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" /><br><br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,cursor,antigravity" /><br><br>
 
-<p>
-- Visual Studio Code  
-- Visual Studio  
-- SQL Server Management Studio  
-- Cursor  
-- Antigravity  
-</p>
+
 
 </div>
 
