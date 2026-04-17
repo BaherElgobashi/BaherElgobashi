@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,cs,dotnet,sqlserver,git,github&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,cs,dotnet,git,github&perline=11" />
 
 </div>
 
