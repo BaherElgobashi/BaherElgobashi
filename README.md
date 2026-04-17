@@ -77,10 +77,10 @@
 
 ### 🎯 Goals
 
-- Master ASP.NET Core & backend architecture  
-- Build production-level full stack apps  
-- Improve problem solving & system design  
-- Land a strong software engineering role  
+- Master ASP.NET Core & backend architecture.  
+- Build production-level full stack apps.  
+- Improve problem solving & system design.  
+- Land a strong software engineering role.
 
 ---
 
