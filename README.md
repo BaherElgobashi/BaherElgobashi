@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hey there, Baher this side! <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Baher Mohamed Zakaria Elgobashi <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
